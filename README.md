@@ -1,6 +1,6 @@
 ## Hi there 👋
 [![Brody's GitHub stats](https://github-readme-stats.vercel.app/api?username=lurkny&show_icons=true&theme=dark)](https://github.com/lurkny/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lurkny&theme=dark&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lurkny&theme=dark)
 <!--
 **lurkny/lurkny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
